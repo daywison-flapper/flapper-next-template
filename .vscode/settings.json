@@ -1,0 +1,10 @@
+{
+  "i18n-ally.localesPaths": ["messages"],
+  "i18n-ally.keystyle": "nested",
+  "i18n-ally.extract.autoDetect": true,
+  "i18n-ally.translate.engines": ["google"],
+  "i18n-ally.displayLanguage": "pt-BR",
+  "i18n-ally.sourceLanguage": "pt-BR",
+  "editor.formatOnSave": true,
+  "search.useReplacePreview": false
+}
